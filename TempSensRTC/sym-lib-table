@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MAX31865ATP_T")(type "KiCad")(uri "E:/PCB/HomeAssistant/Lib/MAX31865ATP_T/MAX31865ATP_T.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX31855KASA_")(type "KiCad")(uri "E:/PCB/HomeAssistant/Lib/MAX31855KASA_/MAX31855KASA_.kicad_sym")(options "")(descr ""))
+)
