@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "DFLU1200-7")(type "KiCad")(uri "${KIPRJMOD}/Lib/DFLU1200-7/DFLU1200-7.kicad_sym")(options "")(descr ""))
+)

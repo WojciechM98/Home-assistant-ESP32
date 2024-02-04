@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "AZ921-1A-5DE")(type "KiCad")(uri "${KIPRJMOD}/Lib/AZ921-1A-5DE")(options "")(descr ""))
+  (lib (name "DG300-5.0-2P")(type "KiCad")(uri "${KIPRJMOD}/Lib/DG300-5.0-2P/DG300-5.0-2P.pretty")(options "")(descr ""))
+  (lib (name "SFH6156-1T")(type "KiCad")(uri "${KIPRJMOD}/Lib/SFH6156-1T")(options "")(descr ""))
+  (lib (name "DFLU1200-7")(type "KiCad")(uri "${KIPRJMOD}/Lib/DFLU1200-7")(options "")(descr ""))
+)
