@@ -3,7 +3,7 @@ Home assistand board using ESP32 controlled with MQTT protocol.
 
 ## Main purpose of Home assistant board
 The project was created with the thought of controlling LED strips with MQTT protocol via phone app. A moment later, the idea of controlling and connecting many devices appeared such as water pump for watering plants plants, temperature sensors, lamps and so on.
-![Alt text](MainBoard/MainBoard.jpg?raw=true "Main board prototype version 0.1.")
+![Alt text](MainBoard/MainBoard.jpg?raw=true "Main board prototype version 0.2.")
 
 Prototype mainboard version 0.1 consist of:
 - Espressif ESP32 S2 mini 1 chip,
