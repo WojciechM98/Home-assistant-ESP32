@@ -20,12 +20,6 @@
       (xy -1.6002 -4.0005)
       (xy -1.6002 -2.4003)
       (xy 1.6002 -2.4003)
-    ) (layer "F.Cu") (width 0) (fill solid) (tstamp c3fb10bd-415d-4dfa-9f90-d81c5b997c00))
-  (fp_poly (pts
-      (xy 1.6002 -4.0005)
-      (xy -1.6002 -4.0005)
-      (xy -1.6002 -2.4003)
-      (xy 1.6002 -2.4003)
     ) (layer "F.Paste") (width 0) (fill solid) (tstamp 0db61b81-eea7-4cbd-b067-f35f9b46cc9d))
   (fp_line (start -3.4798 1.9812) (end 3.4798 1.9812) (layer "F.SilkS") (width 0.1524) (tstamp 35a8971f-66d2-4b0b-adbb-c432b9ab6daf))
   (fp_line (start 3.4798 1.9812) (end 3.4798 -1.9812) (layer "F.SilkS") (width 0.1524) (tstamp a45a9191-dd2c-4ba9-ab37-36abefb65a5e))
@@ -72,6 +66,7 @@
   (fp_line (start -2.7318 3.6449) (end -1.8682 3.6449) (layer "F.Fab") (width 0.0254) (tstamp ffc00d80-da29-48fd-a006-a165eda385cc))
   (fp_circle (center -3.0988 1.6002) (end -2.9718 1.6002) (layer "F.Fab") (width 0.0254) (fill none) (tstamp bf387ecc-5c25-4499-a76e-5b8c2bcd6124))
   (pad "1" smd rect (at -2.3 3.2004) (size 0.9144 1.6002) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2a5bcf2a-39c3-4e42-bf51-668de3c62235))
+  (pad "2" smd rect (at 0 -3.2004) (size 3.2004 1.6002) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5454aa3f-8885-4b82-bbd5-ec1d57cf0914))
   (pad "2" smd rect (at 0 3.2004) (size 0.9144 1.6002) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f0267dd-7d06-4a98-9a5e-e99499e1604d))
   (pad "3" smd rect (at 2.3 3.2004) (size 0.9144 1.6002) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3a646963-6844-4148-8581-81001ab86b45))
   (model "${KIPRJMOD}/Lib/LD1117AS33TR/SOT-223_STM.step"
