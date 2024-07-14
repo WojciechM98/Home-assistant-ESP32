@@ -13,4 +13,5 @@
   (lib (name "MAX31865ATP_T")(type "KiCad")(uri "${KIPRJMOD}/Lib/MAX31865ATP_T/MAX31865ATP_T.kicad_sym")(options "")(descr ""))
   (lib (name "MAX31855KASA_")(type "KiCad")(uri "${KIPRJMOD}/Lib/MAX31855KASA_/MAX31855KASA_.kicad_sym")(options "")(descr ""))
   (lib (name "DFLU1200-7")(type "KiCad")(uri "${KIPRJMOD}/Lib/DFLU1200-7/DFLU1200-7.kicad_sym")(options "")(descr ""))
+  (lib (name "TS2940CW33_RPG")(type "KiCad")(uri "${KIPRJMOD}/Lib/TS2940CW33_RPG/TS2940CW33_RPG.kicad_sym")(options "")(descr ""))
 )

@@ -12,4 +12,6 @@
   (lib (name "DFLU1200-7")(type "KiCad")(uri "${KIPRJMOD}/Lib/DFLU1200-7")(options "")(descr ""))
   (lib (name "SMTSO-M4-2ET")(type "KiCad")(uri "${KIPRJMOD}/Lib/SMTSO/SMTSO-M4-2ET/SMTSO-M4-2ET.pretty")(options "")(descr ""))
   (lib (name "SMTSO-M25-2ET")(type "KiCad")(uri "${KIPRJMOD}/Lib/SMTSO/SMTSO-M25-2ET/SMTSO-M25-2ET.pretty")(options "")(descr ""))
+  (lib (name "TS2940CW33_RPG")(type "KiCad")(uri "${KIPRJMOD}/Lib/TS2940CW33_RPG")(options "")(descr ""))
+  (lib (name "A1001WV-S-6P")(type "KiCad")(uri "${KIPRJMOD}/Lib/A1001WV-S-6P")(options "")(descr ""))
 )
